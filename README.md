@@ -1,9 +1,5 @@
 ### It is Talented Blockchain developer 👋
-
-<!--
-**Talented-Blockchain-Dev/Talented-Blockchain-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Fullstack developer here:
+### Fullstack developer here:
 
 - 🔭 I’m currently working on Blockchain projects ...
    I developed my own blockchain called "ICICB"
