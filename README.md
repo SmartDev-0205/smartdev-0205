@@ -2,7 +2,7 @@
 ### Fullstack developer here:
 
 - 🔭 I’m currently working on Blockchain projects ...
-   I developed my own blockchain called "ICICB"
+   I developed my own blockchain
    So I know all about blockchain
 - 🌱 I’m currently learning more and more about blockchain to be the best blockchain developer online...
 - 📫 How to reach me:\
