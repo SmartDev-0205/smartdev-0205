@@ -1,4 +1,4 @@
-### It is Talented Blockchain developer 👋
+
 ### Fullstack developer here:
 <p dir="auto">
  🔭I am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 12 years.
