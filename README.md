@@ -128,22 +128,7 @@
             <img src="https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" alt="netlify" data-canonical-src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;">
         </a>
     </p>
-    <h3 dir="auto">
-        <a id="user-content-cross-platform-development" class="anchor" aria-hidden="true" href="#cross-platform-development">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>Cross Platform Development
-    </h3>
-    <p dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2572a71f8d7e02621f79099a0d21fc85e4761768d5bddf97ac3c9042b797c29b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3238423646363f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/2572a71f8d7e02621f79099a0d21fc85e4761768d5bddf97ac3c9042b797c29b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3238423646363f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" alt="flutter" data-canonical-src="https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ac1b91d70010f149e19c5cd43795a32268195046541ed1f69594f38037db74a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c656374726f6e2d3243324533423f7374796c653d666f722d7468652d6261646765266c6f676f3d656c656374726f6e266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/ac1b91d70010f149e19c5cd43795a32268195046541ed1f69594f38037db74a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c656374726f6e2d3243324533423f7374796c653d666f722d7468652d6261646765266c6f676f3d656c656374726f6e266c6f676f436f6c6f723d7768697465" alt="electron" data-canonical-src="https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&amp;logo=electron&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-    </p>
-    <h3 dir="auto">
+        <h3 dir="auto">
         <a id="user-content-languages" class="anchor" aria-hidden="true" href="#languages">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
                 <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
@@ -164,41 +149,8 @@
             <img src="https://camo.githubusercontent.com/46cb8cc5034a9c103c45a4a80cc00d94cabc27589e4f1f44d1767667a43ee400/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3238423646363f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" alt="dart" data-canonical-src="https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&amp;logo=dart&amp;logoColor=white" style="max-width: 100%;">
         </a>
     </p>
-    <h3 dir="auto">
-        <a id="user-content-design-tools" class="anchor" aria-hidden="true" href="#design-tools">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>Design Tools
-    </h3>
-    <p dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/993d894dba6ad23b0515cdce923982fb4f209fe7ae8a628213a9c26f8254aa3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61626f64655f78642d3437303133373f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f62652d7864266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/993d894dba6ad23b0515cdce923982fb4f209fe7ae8a628213a9c26f8254aa3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61626f64655f78642d3437303133373f7374796c653d666f722d7468652d6261646765266c6f676f3d61646f62652d7864266c6f676f436f6c6f723d7768697465" alt="adobe-xd" data-canonical-src="https://img.shields.io/badge/abode_xd-470137?style=for-the-badge&amp;logo=adobe-xd&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3bdc6e47c9af07235a3e149ff3a38dd8f4fad8a7dfff6d69694f2503beb56ab3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/3bdc6e47c9af07235a3e149ff3a38dd8f4fad8a7dfff6d69694f2503beb56ab3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="figma" data-canonical-src="https://img.shields.io/badge/figma-000000?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/f8d020add723ee9a4a18514249c933951fe67d63810d37c3971108341f14cb23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f63616e76612d3030433443433f7374796c653d666f722d7468652d6261646765266c6f676f3d63616e7661266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/f8d020add723ee9a4a18514249c933951fe67d63810d37c3971108341f14cb23/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f63616e76612d3030433443433f7374796c653d666f722d7468652d6261646765266c6f676f3d63616e7661266c6f676f436f6c6f723d7768697465" alt="canva" data-canonical-src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-    </p>
-    <h3 dir="auto">
-        <a id="user-content-testing" class="anchor" aria-hidden="true" href="#testing">
-            <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-                <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-            </svg>
-        </a>Testing
-    </h3>
-    <p dir="auto">
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/93a4a96e0e16b20aa4421c6dfe5f2c76a28c81db660f933b791e1955114ed498/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6368612d3844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f636861266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/93a4a96e0e16b20aa4421c6dfe5f2c76a28c81db660f933b791e1955114ed498/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6368612d3844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f636861266c6f676f436f6c6f723d7768697465" alt="mocha" data-canonical-src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&amp;logo=mocha&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/5ec7b7ed343219da6b2213349bacdc389803950b5298464b35e76f7ab6ccf27d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/5ec7b7ed343219da6b2213349bacdc389803950b5298464b35e76f7ab6ccf27d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465" alt="jest" data-canonical-src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-        <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c10bd6de318f11abe4c827a1e68cad1ffbadcde07b3883019ed38d3d1313cd3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079746573742d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
-            <img src="https://camo.githubusercontent.com/c10bd6de318f11abe4c827a1e68cad1ffbadcde07b3883019ed38d3d1313cd3b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079746573742d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="pytest" data-canonical-src="https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" style="max-width: 100%;">
-        </a>
-    </p>
+
+
+
 
 </article>
