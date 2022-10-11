@@ -154,3 +154,6 @@
 
 
 </article>
+
+<p>Telegram : TalentedBlockchainDeveloper </p>
+<p>Linkedin : https://www.linkedin.com/in/brent-jeremy/ </p>
