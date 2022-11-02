@@ -2,7 +2,7 @@
 ### Honest Blockchain and Fullstack developer:
 <p dir="auto">
  🔭I am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 6 years.<br/>
-    I worked with EVM,NEAR,SOLANA,COSMOS and APTOS. So I think all type of blockchain. You can check this from my reporsitories.<br/>
+    I worked with <strong>EVM,NEAR,SOLANA,COSMOS and APTOS </strong>. So I think all type of blockchain. You can check this from my reporsitories.<br/>
     Now, I am working on Cosmos and Aptos and developed blockchain using cosmos and built some project on Aptos too.
       </p>
   <p dir="auto">
