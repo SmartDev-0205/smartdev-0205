@@ -1,6 +1,5 @@
 
-### <p dir="auto" style="text-align: center;">Honest Blockchain and Fullstack developer:</p>
-### Honest Blockchain and Fullstack developer:
+### Honest Blockchain and Fullstack developer (Slogan : Promise is law)
 <p dir="auto">
  🔭I am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 6 years.<br/>
     I worked with <strong>EVM,NEAR,SOLANA,COSMOS and APTOS </strong>. So I think all type of blockchain. You can check this from my reporsitories.<br/>
