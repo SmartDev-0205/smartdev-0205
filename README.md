@@ -1,24 +1,18 @@
 
-### Fullstack developer here:
+### Honest Blockchain and Fullstack developer:
 <p dir="auto">
- 🔭I am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 12 years.
-   I developed my own blockchain
-   So I know all about blockchain
-   I’m currently learning more and more about blockchain to be the best blockchain developer online...
+ 🔭I am with extensive and rich knowledge of all software such as Blockchain, Website, Mobile App and more for over 6 years.<br/>
+    I worked with EVM,NEAR,SOLANA,COSMOS and APTOS. So I think all type of blockchain. You can check this from my reporsitories.<br/>
+    Now, I am working on Cosmos and Aptos and developed blockchain using cosmos and built some project on Aptos too.
       </p>
   <p dir="auto">
         <g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">
         🎓
-        </g-emoji> I am a well-experienced <strong>Blockchain / Web / Mobile Developer</strong> (specializing in <strong>React Applications</strong>). I graduated Master's Degree in <strong> King Mongkut's University of Technology Thonburi</strong> in 2013.
+        </g-emoji> I am a well-experienced <strong>Fullstack developer</strong> (specializing in <strong>Node,Python,React,Angular</strong>).<br/> I graduated Master's Degree in <strong> King Mongkut's University of Technology Thonburi</strong> in 2013.
     </p>
     <p dir="auto">
-        <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> I enjoy contributing to <strong>Open Source Projects</strong> and have contributed to several Gigantic Organizations including, <strong>Material UI</strong>, <strong>Microsoft</strong>, <strong>Amazon</strong>, <strong>Webhint</strong>, and countless others. I am really enthusiastic about learning new technology. In 2016, I learned <strong>Blockchain development &amp; DApps</strong>, and in 2020, learned <strong>Next.js</strong>, <strong>Progressive Web App (PWA)</strong>, <strong>GraphQL</strong>, <strong>Micro-Frontend Architecture</strong>.
-    </p>
-    <p dir="auto">
-        <g-emoji class="g-emoji" alias="guitar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b8.png">🎸</g-emoji> Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from <strong>guitar</strong>, <strong>break dancing (hip-hop)</strong>, <strong>sketching</strong>, and <strong>touch typing</strong> to some whacky ones like <strong>writing with my left hand</strong>.
-    </p>
-    <p dir="auto">
-        <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> I also love reading books on <strong>personal development</strong> &amp; <strong>financial literacy</strong>. My favorite ones are <strong>The Compound Effect</strong> by <em>Darren Hardy</em> in the genre of personal development and <strong>Rich Dad Poor Dad</strong> by <em>Robert Kiyosaki</em> in the genre of financial literacy.
+        <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> I love to work with Cloud tools (<strong>AWS,GCP</strong>)<br/>
+        The most important is that I worked as Devops with Docker and Kubernet.<br/>
     </p>
     <h2 dir="auto">
         <a id="user-content-️-skills" class="anchor" aria-hidden="true" href="#️-skills">
