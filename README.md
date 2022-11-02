@@ -12,7 +12,7 @@
     </p>
     <p dir="auto">
         <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> I love to work with Cloud tools (<strong>AWS,GCP</strong>)<br/>
-        The most important is that I worked as Devops with Docker and Kubernet.<br/>
+        The most important is that I worked as Devops with <strong>Docker </strong> and <strong>Kubernet</strong>.<br/>
     </p>
     <h2 dir="auto">
         <a id="user-content-️-skills" class="anchor" aria-hidden="true" href="#️-skills">
