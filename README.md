@@ -51,7 +51,7 @@
     </p>
     
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/sasuke031026/sasuke031026/blob/main/shake.gif" data-target="animated-image.originalLink"><img src="https://github.com/sasuke031026/sasuke031026/raw/main/shake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-<p><strong>Telegram</strong> : @TalentedBlockchainDeveloper </p>
-<p><strong>Email</strong> : brentjeremynel@gmail.com </p>
-<p><strong>Number</strong> : 15615010926 </p>
-<p><strong>Linkedin</strong> : https://www.linkedin.com/in/brent-jeremy/ </p>
+<p><strong>Telegram</strong> : @trust0205 </p>
+<p><strong>Email</strong> : promiseislaw@gmail.com </p>
+<p><strong>Number</strong> : 48422886027 </p>
+<p><strong>Linkedin</strong> : https://www.linkedin.com/in/promise-is-law/</p>
