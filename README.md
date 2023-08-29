@@ -1,5 +1,5 @@
 
-### SENIOR PYTHON DEVELOPER (Slogan : Promise is law)
+### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER (Slogan : Promise is law)
 <ui>
  <p dir="auto">
   <li>Around 8 years of experience spread across <strong> Python, Big Data, Apache Spark, Scala, Java, SQL </strong> technologies.</li>
