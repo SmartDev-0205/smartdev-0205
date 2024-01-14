@@ -1,26 +1,21 @@
 
 ### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER (Slogan : Promise is law)
-<ui>
  <p dir="auto">
-  <li>Around 8 years of experience spread across <strong> Python, Big Data, Apache Spark, Scala, Java, SQL </strong> technologies.</li>
-  <li>GoodExperience with a focus on<strong>Big data, Deep Learning, Machine Learning, Image processing or AI</strong>.</li>
-  <li>Experience with <strong> Web Development, Amazon Web Services, Python and the Django framework </strong>.</li>
-  <li>Knowledge of <strong>Information Extraction, NLP algorithms coupled with Deep Learning </strong></li>
-  <li>Experienced in using <strong> MVC architecture </strong> using RESTful, Soap Web services and SoapUI and high-level Python Web frameworks like Django and Flask. Experience object-oriented programming (OOP) concepts using Python, Django, and Linux.</li>
-  <li>Good experience in working with <strong> Amazon Web Services </strong> like EC2, Virtual private clouds (VPCs), Storage models (EBS, S3, instance storage), Elastic Load Balancers (ELBs)</li>
-  <li>Experience with <strong> Test Driven Development (TDD), Agile, Scrum and Waterfall methodologies </strong> . Used ticketing systems like <strong> JIRA, Bugzilla and other proprietary tools </strong>.</li>
-  <li>Excellent <strong>communication </strong> and inter-personal skills detail oriented, analytical, time bound, responsible team player and ability to coordinate in a team environment and possesses high degree of self-motivation and a quick learner.</li>
-  
+  <p>I'm a passionate and experienced <strong>Blockchain</strong>strong and <strong>Python</strong>strong> developer
+with a strong understanding of software development principles and
+best practices.</p>
+  <p>Here's what you can expect from me:</p>
+  <ui>
+   <li>Blockchain Development.</li>
+   <li>Smart Contract Development</li>
+   <li>DApp Development</li>
+   <li>Expertise in Python</li>
+  </ui>
+  <li>If you're looking for a blockchain or python developer who is
+passionate, detail-oriented, and constantly strives for excellence, feel
+free to reach out. Let's discuss how I can contribute to your project's
+success!</li>
  </p>
-</ui>
-
-
-
-
-
-
-
-
 
 <h2 dir="auto">
         <a id="user-content-️-skills" class="anchor" aria-hidden="true" href="#️-skills">
@@ -40,13 +35,8 @@
     </h3>
     <p dir="auto">
      <ui>
-      <li><strong>Languages</strong>: Python,React , Angular , Node.</li>
-      <li><strong>Python Frameworks</strong>:Pandas, Flask, Django, Docker</li>
-      <li><strong>Python Libraries</strong>:Numpy, Matplotlib, NLTK, Statsmodels, Scikit-learn/sklearn, SOAP, Scipy</li>
-      <li><strong>NLP used for Python</strong>: NLTK, OpenNLP, StanfordNLP (NER, POSTag, Tokenization)</li>
-      <li><strong>Web Technologies</strong>:CSS, JavaScript, XML, AJAX, JQuery, Bootstrap, AWS, RESTFul Web Services</li>
-      <li><strong>Databases</strong>: RDBMS (Oracle, SQL Server, MySQL), No SQL (MongoDb), HDFS (Hadoop)</li>
-      <li><strong>Cloud Environment</strong>: AWS, GCP,AZURE</li>
+      <li><strong>Languages</strong>: Solidity,Web3 , Solana , Rust , Golang , python</li>
+      <li><strong>Blockchains</strong>:EVM, Solana, SUI</li>
      </ui>
     </p>
     
