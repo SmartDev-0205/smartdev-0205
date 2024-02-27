@@ -1,7 +1,7 @@
 
 ### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER (Slogan : Promise is law)
  <p dir="auto">
-  <p>I'm a passionate and experienced <strong>Blockchain</strong>strong and <strong>Python</strong>strong> developer
+  <p>I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong>strong> developer
 with a strong understanding of software development principles and
 best practices.</p>
   <p>Here's what you can expect from me:</p>
