@@ -1,7 +1,8 @@
 
 ### SENIOR BLOCKCHAIN AND PYTHON DEVELOPER (Slogan : Promise is law)
  <p dir="auto">
-  <p>I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong>strong> developer
+  <p>I share my birthday, 5th Feb, with Cristiano Ronaldo, whom I admire. Just as he excels in football, I aspire to become a renowned software engineer. Follow my journey on GitHub!</p>
+  <p>I'm a passionate and experienced <strong>Blockchain</strong> and <strong>Python</strong> developer
 with a strong understanding of software development principles and
 best practices.</p>
   <p>Here's what you can expect from me:</p>
