@@ -45,4 +45,4 @@ success!</li>
 <p><strong>Telegram</strong> : https://t.me/smartdev0205</p>
 <p><strong>Email</strong> : promiseislaw@gmail.com </p>
 <p><strong>Number</strong> : 48422886027 </p>
-<p><strong>Linkedin</strong> : https://www.linkedin.com/in/promise-is-law/</p>
+<p><strong>Discord</strong> : promise0205</p>
